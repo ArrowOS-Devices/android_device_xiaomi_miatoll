@@ -33,3 +33,6 @@ vendor/lib64/camera/com.qti.sensormodule.sunny_s5kgw1_mirrorflip.bin|a3a755a5b11
 vendor/lib64/camera/com.qti.tuned.ofilm_s5kgw1.bin|84ce250c790f5f4ab61932d257950519678726b5
 vendor/lib64/camera/com.qti.tuned.sunny_gc02m1.bin|188b18e794fcc417f479b878b6ab9d51d4951878
 vendor/lib64/camera/com.qti.tuned.sunny_s5kgw1.bin|c6c134ef64ef8602fd0e050aea5d2da378407953
+
+# NFC
+vendor/lib/libpn553_fw.so|a8e29cc3ebb2e0df0fb505fc2da9c69a015680fb
