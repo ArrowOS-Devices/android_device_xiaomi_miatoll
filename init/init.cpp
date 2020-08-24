@@ -79,28 +79,28 @@ void load_device_properties() {
     if (hwname == "curtana") {
         if (region == "Global_TWO") {
             set_device_props(
-                    "Redmi/curtana_global/curtana:10/QKQ1.191215.002/V11.0.10.0.QJWMIXM:user/release-keys",
+                    "google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys",
                     "curtana_global-user 10 QKQ1.191215.002 V11.0.10.0.QJWMIXM release-keys",
                     "Redmi", "curtana", "Redmi Note 9S");
         } else if (region == "India") {
             set_device_props(
-                    "Redmi/curtana/curtana:10/QKQ1.191215.002/V11.0.4.0.QJWINXM:user/release-keys",
+                    "google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys",
                     "curtana_in-user 10 QKQ1.191215.002 V11.0.4.0.QJWINXM release-keys",
                     "Redmi", "curtana", "Redmi Note 9 Pro");
         }
     } else if (hwname == "excalibur") {
         set_device_props(
-                "Redmi/excalibur_in/excalibur:10/QKQ1.191215.002/V11.0.4.0.QJXINXM:user/release-keys",
+                "google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys",
                 "excalibur_in-user 10 QKQ1.191215.002 V11.0.4.0.QJXINXM release-keys",
                 "Redmi", "excalibur", "Redmi Note 9 Pro Max");
     } else if (hwname == "gram") {
         set_device_props(
-                "POCO/gram_in/gram:10/QKQ1.191215.002/V11.0.3.0.QJPINXM:user/release-keys",
+                "google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys",
                 "gram_in-user 10 QKQ1.191215.002 V11.0.3.0.QJPINXM release-keys",
                 "POCO", "gram", "POCO M2 Pro");
     } else if (hwname == "joyeuse") {
         set_device_props(
-                "Redmi/joyeuse_global/joyeuse:10/QKQ1.191215.002/V11.0.5.0.QJZMIXM:user/release-keys",
+                "google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys",
                 "joyeuse_global-user 10 QKQ1.191215.002 V11.0.5.0.QJZMIXM release-keys",
                 "Redmi", "joyeuse", "Redmi Note 9 Pro");
     }
