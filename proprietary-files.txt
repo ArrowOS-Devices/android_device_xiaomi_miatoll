@@ -19,21 +19,23 @@ vendor/lib64/camera/com.qti.tuned.sunny_imx582.bin|d8ca99c9714d16dc6537caa8e232c
 # Camera sensors - excalibur & joyeuse
 vendor/lib/camera/com.qti.sensormodule.ofilm_s5kgw1.bin|334d371b7a983ce68b00517adda673c3c0e929b2
 vendor/lib/camera/com.qti.sensormodule.ofilm_s5kgw1_mirrorflip.bin|917c57ddd0a00f9b05b953709b05142768f702b2
-vendor/lib/camera/com.qti.sensormodule.sunny_ov32a1q.bin|c97a60bf1b3cd584fa4eb80495ad3ced41cb64a3
 vendor/lib/camera/com.qti.sensormodule.sunny_s5kgw1.bin|e1a6c85a562f88fbc8eb6ea0bdc1b1308754d70e
 vendor/lib/camera/com.qti.sensormodule.sunny_s5kgw1_mirrorflip.bin|a3a755a5b11679cf4b42a7b606221a299ff4e012
 vendor/lib/camera/com.qti.tuned.ofilm_s5kgw1.bin|84ce250c790f5f4ab61932d257950519678726b5
 vendor/lib/camera/com.qti.tuned.sunny_gc02m1.bin|188b18e794fcc417f479b878b6ab9d51d4951878
 vendor/lib/camera/com.qti.tuned.sunny_s5kgw1.bin|c6c134ef64ef8602fd0e050aea5d2da378407953
-vendor/lib/camera/com.qti.tuned.sunny_ov32a1q.bin|e3c8cb221d8bbfd82f81063dbff148d28136390f
 vendor/lib64/camera/com.qti.sensormodule.ofilm_s5kgw1.bin|334d371b7a983ce68b00517adda673c3c0e929b2
 vendor/lib64/camera/com.qti.sensormodule.ofilm_s5kgw1_mirrorflip.bin|917c57ddd0a00f9b05b953709b05142768f702b2
-vendor/lib64/camera/com.qti.sensormodule.sunny_ov32a1q.bin|c97a60bf1b3cd584fa4eb80495ad3ced41cb64a3
 vendor/lib64/camera/com.qti.sensormodule.sunny_s5kgw1.bin|e1a6c85a562f88fbc8eb6ea0bdc1b1308754d70e
 vendor/lib64/camera/com.qti.sensormodule.sunny_s5kgw1_mirrorflip.bin|a3a755a5b11679cf4b42a7b606221a299ff4e012
 vendor/lib64/camera/com.qti.tuned.ofilm_s5kgw1.bin|84ce250c790f5f4ab61932d257950519678726b5
 vendor/lib64/camera/com.qti.tuned.sunny_gc02m1.bin|188b18e794fcc417f479b878b6ab9d51d4951878
 vendor/lib64/camera/com.qti.tuned.sunny_s5kgw1.bin|c6c134ef64ef8602fd0e050aea5d2da378407953
+
+# Camera sensors - excalibur
+vendor/lib/camera/com.qti.sensormodule.sunny_ov32a1q.bin|c97a60bf1b3cd584fa4eb80495ad3ced41cb64a3
+vendor/lib/camera/com.qti.tuned.sunny_ov32a1q.bin|e3c8cb221d8bbfd82f81063dbff148d28136390f
+vendor/lib64/camera/com.qti.sensormodule.sunny_ov32a1q.bin|c97a60bf1b3cd584fa4eb80495ad3ced41cb64a3
 vendor/lib64/camera/com.qti.tuned.sunny_ov32a1q.bin|e3c8cb221d8bbfd82f81063dbff148d28136390f
 
 # NFC
