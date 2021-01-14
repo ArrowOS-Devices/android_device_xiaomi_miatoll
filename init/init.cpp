@@ -73,44 +73,32 @@ void load_device_properties() {
                     "google/redfin/redfin:11/RQ1A.210105.003/7005429:user/release-keys",
                     "redfin-user 11 RQ1A.210105.003 7005429 release-keys",
                     "Redmi", "curtana", "Redmi Note 9S");
-            property_override("ro.build.version.security_patch", "2021-01-05");
-            property_override("ro.vendor.build.security_patch", "2021-01-05");
         } else if (region == "India") {
             set_device_props(
                     "google/redfin/redfin:11/RQ1A.210105.003/7005429:user/release-keys",
                     "redfin-user 11 RQ1A.210105.003 7005429 release-keys",
                     "Redmi", "curtana", "Redmi Note 9 Pro");
-            property_override("ro.build.version.security_patch", "2021-01-05");
-            property_override("ro.vendor.build.security_patch", "2021-01-05");
         } else if (region == "Japan") {
             set_device_props(
                     "google/redfin/redfin:11/RQ1A.210105.003/7005429:user/release-keys",
                     "redfin-user 11 RQ1A.210105.003 7005429 release-keys",
                     "Redmi", "curtana", "Redmi Note 9S");
-            property_override("ro.build.version.security_patch", "2021-01-05");
-            property_override("ro.vendor.build.security_patch", "2021-01-05");
         }
     } else if (hwname == "excalibur") {
         set_device_props(
                 "google/redfin/redfin:11/RQ1A.210105.003/7005429:user/release-keys",
                 "redfin-user 11 RQ1A.210105.003 7005429 release-keys",
                 "Redmi", "excalibur", "Redmi Note 9 Pro Max");
-        property_override("ro.build.version.security_patch", "2021-01-05");
-        property_override("ro.vendor.build.security_patch", "2021-01-05");
     } else if (hwname == "gram") {
         set_device_props(
                 "google/redfin/redfin:11/RQ1A.210105.003/7005429:user/release-keys",
                 "redfin-user 11 RQ1A.210105.003 7005429 release-keys",
                 "POCO", "gram", "POCO M2 Pro");
-        property_override("ro.build.version.security_patch", "2021-01-05");
-        property_override("ro.vendor.build.security_patch", "2021-01-05");
     } else if (hwname == "joyeuse") {
         set_device_props(
                 "google/redfin/redfin:11/RQ1A.210105.003/7005429:user/release-keys",
                 "redfin-user 11 RQ1A.210105.003 7005429 release-keys",
                 "Redmi", "joyeuse", "Redmi Note 9 Pro");
-        property_override("ro.build.version.security_patch", "2021-01-05");
-        property_override("ro.vendor.build.security_patch", "2021-01-05");
     }
 }
 
