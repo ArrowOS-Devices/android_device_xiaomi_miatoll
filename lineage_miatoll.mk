@@ -7,7 +7,7 @@
 # Inherit from miatoll  device
 $(call inherit-product, device/xiaomi/miatoll/device.mk)
 
-# Inherit some common ArrowOS stuff
+# Inherit some common LineageOS stuff
 $(call inherit-product, vendor/lineage/config/common.mk)
 
 # Bootanimation Resolution
