@@ -70,39 +70,39 @@ void load_device_properties() {
     if (hwname == "curtana") {
         if (region == "Global_TWO") {
             set_device_props(
-                    "Redmi/curtana_global/curtana:10/QKQ1.191215.002/V12.0.1.0.QJWMIXM:user/release-keys",
-                    "curtana_global-user 10 QKQ1.191215.002 V12.0.1.0.QJWMIXM release-keys",
+                    "Redmi/curtana_global/curtana:12/RKQ1.211019.001/V13.0.2.0.SJWMIXM:user/release-keys",
+                    "curtana_global-user 12 RKQ1.211019.001 V13.0.2.0.SJWMIXM release-keys",
                     "Redmi", "curtana", "Redmi Note 9S");
         } else if (region == "Global_PA") {
             set_device_props(
-                    "Redmi/curtana_global/curtana:10/QKQ1.191215.002/V12.0.1.0.QJWMIXM:user/release-keys",
-                    "curtana_global-user 10 QKQ1.191215.002 V12.0.1.0.QJWMIXM release-keys",
+                    "Redmi/curtana_global/curtana:12/RKQ1.211019.001/V13.0.2.0.SJWMIXM:user/release-keys",
+                    "curtana_global-user 12 RKQ1.211019.001 V13.0.2.0.SJWMIXM release-keys",
                     "Redmi", "curtana", "Redmi Note 9S");
         } else if (region == "India") {
             set_device_props(
-                    "Redmi/curtana/curtana:10/QKQ1.191215.002/V12.0.1.0.QJWINXM:user/release-keys",
-                    "curtana_in-user 10 QKQ1.191215.002 V12.0.1.0.QJWINXM release-keys",
+                    "Redmi/curtana/curtana:11/RKQ1.200826.002/V12.5.5.0.RJWINXM:user/release-keys",
+                    "curtana_in-user 11 RKQ1.200826.002 V12.5.5.0.RJWINXM release-keys",
                     "Redmi", "curtana", "Redmi Note 9 Pro");
         } else if (region == "Japan") {
             set_device_props(
-                    "Redmi/curtana_global/curtana:10/QKQ1.191215.002/V12.0.1.0.QJWMIXM:user/release-keys",
-                    "curtana_global-user 10 QKQ1.191215.002 V12.0.1.0.QJWMIXM release-keys",
+                    "Redmi/curtana_global/curtana:12/RKQ1.211019.001/V13.0.2.0.SJWMIXM:user/release-keys",
+                    "curtana_global-user 12 RKQ1.211019.001 V13.0.2.0.SJWMIXM release-keys",
                     "Redmi", "curtana", "Redmi Note 9S");
         }
     } else if (hwname == "excalibur") {
         set_device_props(
-                "Redmi/excalibur_in/excalibur:10/QKQ1.191215.002/V12.0.1.0.QJXINXM:user/release-keys",
-                "excalibur_in-user 10 QKQ1.191215.002 V12.0.1.0.QJXINXM release-keys",
+                "Redmi/excalibur_in/excalibur:11/RKQ1.200826.002/V12.5.6.0.RJXINXM:user/release-keys",
+                "excalibur_in-user 11 RKQ1.200826.002 V12.5.6.0.RJXINXM release-keys",
                 "Redmi", "excalibur", "Redmi Note 9 Pro Max");
     } else if (hwname == "gram") {
         set_device_props(
-                "POCO/gram_in/gram:10/QKQ1.191215.002/V12.0.1.0.QJPINXM:user/release-keys",
-                "gram_in-user 10 QKQ1.191215.002 V12.0.1.0.QJPINXM release-keys",
+                "POCO/gram_in/gram:11/RKQ1.200826.002/V12.5.6.0.RJPINXM:user/release-keys",
+                "gram_in-user 11 RKQ1.200826.002 V12.5.6.0.RJPINXM release-keys",
                 "POCO", "gram", "POCO M2 Pro");
     } else if (hwname == "joyeuse") {
         set_device_props(
-                "Redmi/joyeuse_global/joyeuse:10/QKQ1.191215.002/V12.0.1.0.QJZMIXM:user/release-keys",
-                "joyeuse_global-user 10 QKQ1.191215.002 V12.0.1.0.QJZMIXM release-keys",
+                "Redmi/joyeuse_global/joyeuse:11/RKQ1.200826.002/V12.5.7.0.RJZMIXM:user/release-keys",
+                "joyeuse_global-user 11 RKQ1.200826.002 V12.5.7.0.RJZMIXM release-keys",
                 "Redmi", "joyeuse", "Redmi Note 9 Pro");
     }
 }
