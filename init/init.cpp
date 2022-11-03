@@ -80,8 +80,8 @@ void load_device_properties() {
                     "Redmi", "curtana", "Redmi Note 9S");
         } else if (region == "India") {
             set_device_props(
-                    "Redmi/curtana/curtana:11/RKQ1.200826.002/V12.5.5.0.RJWINXM:user/release-keys",
-                    "curtana_in-user 11 RKQ1.200826.002 V12.5.5.0.RJWINXM release-keys",
+                    "Redmi/curtana/curtana:12/RKQ1.211019.001/V13.0.1.0.SJWINXM:user/release-keys",
+                    "curtana_in-user 12 RKQ1.211019.001 V13.0.1.0.SJWINXM release-keys",
                     "Redmi", "curtana", "Redmi Note 9 Pro");
         } else if (region == "Japan") {
             set_device_props(
@@ -91,18 +91,18 @@ void load_device_properties() {
         }
     } else if (hwname == "excalibur") {
         set_device_props(
-                "Redmi/excalibur_in/excalibur:11/RKQ1.200826.002/V12.5.6.0.RJXINXM:user/release-keys",
-                "excalibur_in-user 11 RKQ1.200826.002 V12.5.6.0.RJXINXM release-keys",
+                "Redmi/excalibur_in/excalibur:12/RKQ1.211019.001/V13.0.1.0.SJXINXM:user/release-keys",
+                "excalibur_in-user 12 RKQ1.211019.001 V13.0.1.0.SJXINXM release-keys",
                 "Redmi", "excalibur", "Redmi Note 9 Pro Max");
     } else if (hwname == "gram") {
         set_device_props(
-                "POCO/gram_in/gram:11/RKQ1.200826.002/V12.5.6.0.RJPINXM:user/release-keys",
-                "gram_in-user 11 RKQ1.200826.002 V12.5.6.0.RJPINXM release-keys",
+                "POCO/gram_in/gram:12/RKQ1.211019.001/V13.0.1.0.SJPINXM:user/release-keys",
+                "gram_in-user 12 RKQ1.211019.001 V13.0.1.0.SJPINXM release-keys",
                 "POCO", "gram", "POCO M2 Pro");
     } else if (hwname == "joyeuse") {
         set_device_props(
-                "Redmi/joyeuse_global/joyeuse:11/RKQ1.200826.002/V12.5.7.0.RJZMIXM:user/release-keys",
-                "joyeuse_global-user 11 RKQ1.200826.002 V12.5.7.0.RJZMIXM release-keys",
+                "Redmi/joyeuse_global/joyeuse:12/RKQ1.211019.001/V13.0.1.0.SJZMIXM:user/release-keys",
+                "joyeuse_global-user 12 RKQ1.211019.001 V13.0.1.0.SJZMIXM release-keys",
                 "Redmi", "joyeuse", "Redmi Note 9 Pro");
     }
 }
