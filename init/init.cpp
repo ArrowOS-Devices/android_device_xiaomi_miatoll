@@ -82,8 +82,8 @@ void load_device_properties() {
             property_override("ro.product.mod_device", "curtana_global");
         } else if (region == "India") {
             set_device_props(
-                    "Redmi/curtana/curtana:12/RKQ1.211019.001/V13.0.1.0.SJWINXM:user/release-keys",
-                    "curtana_in-user 12 RKQ1.211019.001 V13.0.1.0.SJWINXM release-keys",
+                    "Redmi/curtana/curtana:12/RKQ1.211019.001/V13.0.2.0.SJWINXM:user/release-keys",
+                    "curtana_in-user 12 RKQ1.211019.001 V13.0.2.0.SJWINXM release-keys",
                     "Redmi", "curtana", "Redmi Note 9 Pro");
             property_override("ro.product.mod_device", "curtana_in_global");
         } else if (region == "Japan") {
@@ -95,14 +95,14 @@ void load_device_properties() {
         }
     } else if (hwname == "excalibur") {
         set_device_props(
-                "Redmi/excalibur_in/excalibur:12/RKQ1.211019.001/V13.0.1.0.SJXINXM:user/release-keys",
-                "excalibur_in-user 12 RKQ1.211019.001 V13.0.1.0.SJXINXM release-keys",
+                "Redmi/excalibur_in/excalibur:12/RKQ1.211019.001/V13.0.2.0.SJXINXM:user/release-keys",
+                "excalibur_in-user 12 RKQ1.211019.001 V13.0.2.0.SJXINXM release-keys",
                 "Redmi", "excalibur", "Redmi Note 9 Pro Max");
         property_override("ro.product.mod_device", "excalibur_in_global");
     } else if (hwname == "gram") {
         set_device_props(
-                "POCO/gram_in/gram:12/RKQ1.211019.001/V13.0.1.0.SJPINXM:user/release-keys",
-                "gram_in-user 12 RKQ1.211019.001 V13.0.1.0.SJPINXM release-keys",
+                "POCO/gram_in/gram:12/RKQ1.211019.001/V13.0.2.0.SJPINXM:user/release-keys",
+                "gram_in-user 12 RKQ1.211019.001 V13.0.2.0.SJPINXM release-keys",
                 "POCO", "gram", "POCO M2 Pro");
         property_override("ro.product.mod_device", "gram_in_global");
     } else if (hwname == "joyeuse") {
